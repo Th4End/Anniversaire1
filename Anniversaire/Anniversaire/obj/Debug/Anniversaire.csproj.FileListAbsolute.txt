@@ -1,0 +1,8 @@
+C:\Users\Eliazid\Desktop\Anniversaire\Anniversaire\Anniversaire\bin\Debug\Anniversaire.exe.config
+C:\Users\Eliazid\Desktop\Anniversaire\Anniversaire\Anniversaire\bin\Debug\Anniversaire.exe
+C:\Users\Eliazid\Desktop\Anniversaire\Anniversaire\Anniversaire\bin\Debug\Anniversaire.pdb
+C:\Users\Eliazid\Desktop\Anniversaire\Anniversaire\Anniversaire\obj\Debug\Anniversaire.csproj.AssemblyReference.cache
+C:\Users\Eliazid\Desktop\Anniversaire\Anniversaire\Anniversaire\obj\Debug\Anniversaire.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eliazid\Desktop\Anniversaire\Anniversaire\Anniversaire\obj\Debug\Anniversaire.csproj.CoreCompileInputs.cache
+C:\Users\Eliazid\Desktop\Anniversaire\Anniversaire\Anniversaire\obj\Debug\Anniversaire.exe
+C:\Users\Eliazid\Desktop\Anniversaire\Anniversaire\Anniversaire\obj\Debug\Anniversaire.pdb
